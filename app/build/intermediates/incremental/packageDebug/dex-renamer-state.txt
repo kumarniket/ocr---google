@@ -1,0 +1,7 @@
+#Mon Mar 11 04:33:02 IST 2019
+base.0=/home/nk/Documents/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad521f5a6df549edf7f6a0f1eeb2a83b16125d44
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/nk/Documents/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e6095f968bc2386a1d0bd1a386648431a5aeb39/classes.dex
+base.1=/home/nk/Documents/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0e6095f968bc2386a1d0bd1a386648431a5aeb39
+file.0=/home/nk/Documents/android-vision-master/visionSamples/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad521f5a6df549edf7f6a0f1eeb2a83b16125d44/classes.dex
